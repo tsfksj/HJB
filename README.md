@@ -11,6 +11,6 @@ HJB C2.docx(.txt) 完成
 
 HJB C3.docx(.txt) 完成
 
-2017.04.27.docx 完成
+2017.04.27.docx(.txt) 完成
 
-                 --saite(tsksj,L**)-2017.04.23
+                 --saite(tsksj,L**)-2017.04.27
